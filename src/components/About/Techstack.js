@@ -11,7 +11,6 @@ import {
 } from "react-icons/di";
 import {
   SiFirebase,
-  SiNextdotjs,
 } from "react-icons/si";
 
 function Techstack() {
